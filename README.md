@@ -26,7 +26,7 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/space-traveling.git
+$ git clone https://github.com/Felipe-SRK/Ignite-React-03
 ```
 
 ```
@@ -45,22 +45,8 @@ $ yarn start
 
 ```
 
-&nbsp;
-
-### 🔗 Link para o projeto online
-
-
-[Space Traveling](https://space-traveling-gbdev13.vercel.app/)
-
-&nbsp;
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/space-traveling/blob/master/LICENSE) para detalhes.
-
-
 ---
 
-<p align="center">Feito com 💙 por Felipe Silva Reis</p>
+<p align="center">Feito por Felipe Silva Reis</p>
 
 
