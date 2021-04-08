@@ -1,7 +1,5 @@
 # Blog - Space Traveling
 
-![mock1](https://user-images.githubusercontent.com/71772559/113493479-eceeda80-94b5-11eb-94ea-59e50e56a31f.png)
-
 ## 📚 Informações sobre o projeto
 
 * Esse blog foi um projeto desenvolvido durante um desafio do Ignite da Rocketseat! A ideia era desenvolver do 0 uma aplicação, desde o front-end até a conexão com o Prismic CMS para a publicação dos posts.
@@ -16,11 +14,6 @@
 * Uso do sistema estático do Next.js, onde os posts são mantidos no cache para um melhor carregamento.
 * Sistema de comentários usando o Utteranc.
 
-&nbsp;
-
-![mock2](https://user-images.githubusercontent.com/71772559/113493556-91711c80-94b6-11eb-8580-17c7fd509640.png)
-
-&nbsp;
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
@@ -29,11 +22,6 @@
 * [Prismic CMS](https://prismic.io/)
 * [Utteranc](https://utteranc.es/)
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/71772559/113493868-cd59b100-94b9-11eb-8506-64061203ce08.gif" width="100%" />
-
-&nbsp;
 
 ## ⚙️ Instalação
 ```
